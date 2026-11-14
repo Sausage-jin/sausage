@@ -5,11 +5,9 @@
 **黑白高级风本地音乐 / MV 播放器**
 
 Java 21 · Swing · JavaFX 21 · Windows
+<img width="821" height="538" alt="屏幕截图 2026-11-14 223447" src="https://github.com/user-attachments/assets/347a5c7e-39b7-421e-ab7f-59891fab5c62" />
 
-[![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square)]()
-[![JavaFX](https://img.shields.io/badge/JavaFX-21.0.4-blue?style=flat-square)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows-success?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
+
 
 </div>
 
