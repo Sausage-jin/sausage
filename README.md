@@ -48,7 +48,8 @@ Java 21 · Swing · JavaFX 21 · Windows
 - 无边框窗口 · 自定义标题栏 · 拖拽移动 · 双击最大化
 - 沉浸式"正在播放"页,黑胶唱片旋转 + 唱臂动画
 - 侧边栏导航:发现 / 本地 / 喜欢 / 列表 / MV
-![Uploading 屏幕截图 2026-11-14 223606.png…]()
+<img width="820" height="542" alt="屏幕截图 2026-11-14 223606" src="https://github.com/user-attachments/assets/f204b1dd-9765-4f23-9500-374ec9a76cbe" />
+
 
 ---
 
