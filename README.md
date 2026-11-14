@@ -18,18 +18,8 @@ Java 21 · Swing · JavaFX 21 · Windows
 ## � 界面预览
 
 <table>
-  <tr>
-    <td width="50%" align="center"><img src="resources/screenshots/main.png" width="100%"/><br><b>发现音乐</b></td>
-    <td width="50%" align="center"><img src="resources/screenshots/local-music.png" width="100%"/><br><b>本地音乐</b></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="resources/screenshots/favorites.png" width="100%"/><br><b>我喜欢</b></td>
-    <td width="50%" align="center"><img src="resources/screenshots/playlist.png" width="100%"/><br><b>播放列表</b></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="resources/screenshots/mv-player.png" width="100%"/><br><b>MV 播放</b></td>
-    <td width="50%" align="center"><img src="resources/screenshots/now-playing.png" width="100%"/><br><b>正在播放 · 黑胶动画</b></td>
-  </tr>
+<img width="821" height="538" alt="屏幕截图 2026-11-14 223447" src="https://github.com/user-attachments/assets/e6fb3d01-3cb0-4b9c-835f-497116101684" />
+
 </table>
 
 ---
@@ -47,6 +37,8 @@ Java 21 · Swing · JavaFX 21 · Windows
 - 网络流:HTTP / HTTPS / RTMP / RTSP
 - JavaFX MediaPlayer 经 JFXPanel 无缝嵌入 Swing
 - 播放/暂停 · 进度拖拽 · 时长显示 · 错误提示
+- <img width="824" height="535" alt="屏幕截图 2026-11-14 223553" src="https://github.com/user-attachments/assets/b6a39160-67a0-47c9-b16a-1f3e674f6bfe" />
+
 
 **💾 收藏**
 - 一键收藏,持久化至 `~/.sausage/favorites.txt`
@@ -56,6 +48,7 @@ Java 21 · Swing · JavaFX 21 · Windows
 - 无边框窗口 · 自定义标题栏 · 拖拽移动 · 双击最大化
 - 沉浸式"正在播放"页,黑胶唱片旋转 + 唱臂动画
 - 侧边栏导航:发现 / 本地 / 喜欢 / 列表 / MV
+![Uploading 屏幕截图 2026-11-14 223606.png…]()
 
 ---
 
